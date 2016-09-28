@@ -1,0 +1,52 @@
+body{
+	background-color:silver;
+}
+h1{
+	font-size: 36px;
+	color:rgb(104, 20, 249);
+	font-family:verdana;
+}
+h3{
+	color:rgb(104, 20, 249);
+	font-family:verdana;	
+}
+h4{
+	color:pink;
+	font-family:verdana;
+}
+table,form{
+	border: 5px solid rgb(104, 20, 249);
+	border-collapse:collapse;
+	border-radius:5px;
+	font-family:tahoma;
+	background-color:rgb(0,120,255);
+	color:white;	
+}
+button{
+	background-color:pink;
+	border-radius:5px;
+	color:rgb(104, 20, 249);
+	font-family:verdana;
+}
+input{
+	background-color:pink;
+	border-radius:5px;
+	color:rgb(104, 20, 249);
+	font-family:verdana;
+}
+select{
+	background-color:pink;
+	border-radius:5px;
+	color:rgb(104, 20, 249);
+	font-family:verdana;
+}
+th,td{
+	padding: 10 px;
+	border:2px solid rgb(28,39,228);
+	font-size:18px;
+	font-weight:bold;
+}
+th{
+	font-size: 28px;
+	color:gray;
+}

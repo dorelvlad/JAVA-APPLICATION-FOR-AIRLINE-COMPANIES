@@ -1,0 +1,23 @@
+h1{
+	font-size: 36px;
+	color:rgb(104, 20, 249);
+	font-family:verdana;
+}
+table{
+	border: 5px solid rgb(104, 20, 249);
+	border-collapse:collapse;
+	font-family:tahoma;
+	background-color:rgb(0,120,255);
+	color:white;
+	
+}
+.table{border-radius:20px;}
+th,td{
+	padding: 10 px;
+	border:2px solid rgb(28,39,228);
+	font-size:18px;
+	font-weight:bold;
+}
+th{
+	font-size: 28px;
+}
